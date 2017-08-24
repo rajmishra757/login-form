@@ -10,7 +10,7 @@ body {
 	height: 100%;
 	padding-top: 90px;
 	background-color: lightblue;
-	font-family: Arial;
+	font-family: Calibri Light;
 }
 
 .data-container {
@@ -22,7 +22,7 @@ body {
 }
 
 .header {
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: lighter;
 	color: white;
 	padding-bottom: 20px;
@@ -33,5 +33,57 @@ body {
 	border: 1px solid white;
 	background-color: white;
 	width: 300px;
-	height: 400px;
+	height: 365px;
+	text-align: center;
+}
+
+.form-header {
+	height: 50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 35px;
+	color: #554444;
+	border-bottom: 1px solid #ddd5d5;
+}
+
+#login-form {
+	text-align: left;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.form-data {
+	width: 100%;
+	padding-bottom: 15px;
+}
+
+input {
+	width: 240px;
+	height: 30px;
+	padding: 5px 10px;
+	margin-top: 5px;
+	background-color: #e3e5e8;
+	border: 1px solid #ccdcff;
+}
+
+#password-section {
+	padding-bottom: 5px;
+}
+
+a {
+	margin-left: 85px;
+	text-decoration: none;
+	font-size: 13px;
+	color: #0080ff;
+}
+
+input[type=submit] {
+	margin-top: 30px;
+	margin-left: 55px;
+	width: 150px;
+	height: 50px;
+	background-color: #1a8cff;
+	color: white;
+	font-weight: bold;
+	border-radius: 3px;
 }
