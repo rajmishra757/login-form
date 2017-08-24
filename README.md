@@ -1,6 +1,2 @@
 # login-form
-A login form created using HTML and CSS.
-
-#Update summary
-- Schema for the form is created.
-- CSS is added to different HTML elements.
+It is a simple login form created using HTML and CSS, which basically demonstrates, how CSS can be used to design web pages containing forms.
