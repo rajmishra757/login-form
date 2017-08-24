@@ -1,2 +1,5 @@
 # login-form
-A general login form created using HTML and CSS.
+A login form created using HTML and CSS.
+
+#Update summary
+- Schema for the form is created.
